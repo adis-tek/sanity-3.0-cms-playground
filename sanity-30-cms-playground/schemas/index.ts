@@ -20,3 +20,5 @@ export const schemaTypes = [
   castMember,
   crewMember,
 ]
+
+// Initial commit for sanity
