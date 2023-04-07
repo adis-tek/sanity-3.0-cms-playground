@@ -21,3 +21,10 @@ export default defineConfig({
     types: schemaTypes,
   },
 })
+
+// build: {
+//     rollupOptions: {
+//       entryFileNames: '[name].js',
+//       chunkFileNames: '[name].js'
+//     }
+//   }
